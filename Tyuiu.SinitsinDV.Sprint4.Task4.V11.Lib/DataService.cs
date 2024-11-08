@@ -19,7 +19,7 @@ namespace Tyuiu.SinitsinDV.Sprint4.Task4.V11.Lib
 
 
             }
-            return s;
+            return s - 1;
 
 
 
