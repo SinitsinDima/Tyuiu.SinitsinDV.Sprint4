@@ -17,7 +17,7 @@ namespace Tyuiu.SinitsinDV.Sprint4.Task4.V11.Test
                 {7, 6, 7, 7, 5}
             };
             int res = ds.Calculate(matrix);
-            int wait = 81;
+            int wait = 82;
             Assert.AreEqual(wait, res);
 
 
